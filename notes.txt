@@ -1,0 +1,7 @@
+top bar should have the whole disk size usage
+
+
+I want the gui to just be a single root view, clicking a folder expands it, and we never leave the root as the main folder. 
+expand a folder to get tree view - don't want to be able to load a new folder. only view should be freom root with collapsible/expandable tree
+
+what about caching ? how can we leverage this to make loading instant ø

@@ -1,0 +1,19 @@
+# build output
+build/
+*.o
+*.dSYM/
+*.app/
+
+# macOS
+.DS_Store
+
+# editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# signing material (never commit)
+*.p12
+*.pem
+*.cer
